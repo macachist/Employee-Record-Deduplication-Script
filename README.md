@@ -21,22 +21,31 @@ Provides a clear summary including:
 Example Input:
 
 100001 - Jane Doe
+
 100001-jdoe
+
 100001
+
 200002 - John Smith
+
 200002-jsmith
 
 Example Output:
 
 Emp ID     Username   Full Name
+
 ----------------------------------------
+
 100001     jdoe       Jane Doe
+
 200002     jsmith     John Smith
 
 Summary:
 
 Total entries processed: 5
+
 Unique employee IDs:     2
+
 Duplicate entries removed: 3
 
 Requirements:
